@@ -1,5 +1,5 @@
 # imgraphy-android
-### 태그 기반 이미지 공유 서비스
+### 태그 기반 이미지 공유 서비스 (API)
 
 [![Link: Client](https://img.shields.io/badge/Imgraphy-Client-red.svg)](https://github.com/qkdxorjs1002/imgraphy-android)
 
